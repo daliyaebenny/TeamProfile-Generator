@@ -7,8 +7,9 @@
   ## Technology
   HTML,CSS,JavaScript,NodeJS(inquirer,jest)
    > **Note**: This application is not deployed a walkthrough video demonstrates the use of application.
-    ### Links 
-    [*GitHub repository*](https://github.com/daliyaebenny/TeamProfile-Generator.git)  
+  ### Links 
+   [*GitHub repository*](https://github.com/daliyaebenny/TeamProfile-Generator.git)     
+   [*Team Profile html file*](https://github.com/daliyaebenny/TeamProfile-Generator/tree/main/dist) 
   ## User Story
 
     AS A manager
