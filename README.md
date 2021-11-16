@@ -14,7 +14,7 @@
     AS A manager
     I WANT to generate a webpage that displays my team's basic info
     SO THAT I have quick access to their emails and GitHub profiles
-    
+
  ## Acceptance Criteria 
 
     GIVEN a command-line application that accepts user input
@@ -52,6 +52,10 @@
   ## License
   This project is licensed under the MIT license.
   ## Usage
+
+https://user-images.githubusercontent.com/25469240/141889336-8c24aecf-1029-4579-a735-a906e9548319.mp4
+
+
       
   ## Contributors
   Daliya Benny    
