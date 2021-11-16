@@ -8,7 +8,7 @@
   HTML,CSS,JavaScript,NodeJS(inquirer,jest)
    > **Note**: This application is not deployed a walkthrough video demonstrates the use of application.
     ### Links 
-    [*GitHub repository*](https://github.com/daliyaebenny/ReadMe-Generator.git)  
+    [*GitHub repository*](https://github.com/daliyaebenny/TeamProfile-Generator.git)  
   ## User Story
 
     AS A manager
